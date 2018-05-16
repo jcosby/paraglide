@@ -4,7 +4,7 @@
   "description": "mark This is my portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "dev" : "/node_modules/nodemon/bin/nodemon.js server.js"
   },
   "repository": {
